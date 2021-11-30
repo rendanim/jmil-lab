@@ -1,7 +1,7 @@
 ---
 title: "Johannesburg Machine  \n Intelligence Lab\n"
 headless: yes
-weight: 10
+weight: 7
 widget: hero
 hero_media: welcome_logo.jpg
 design:
