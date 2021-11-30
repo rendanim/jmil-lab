@@ -1,23 +1,17 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
+title: "Johannesburg Machine  \n Intelligence Lab\n"
+headless: yes
+weight: 10
+widget: hero
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  css_style: null
+  css_class: null
 ---
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+We are a research lab jointly organized by members of the Department of Electrical Engineering Science at the University of Johannesburg and the School of Statistics and Actuarial Science at the University of Witwatersrand. Our areas of focus include probabilistic machine learning, causal inference and computational finance. Our applied work cover Artificial intelligence in energy, climate science and diverse social good applications. 
+
+We are always keen on new team members and collaborations - please reach out!
