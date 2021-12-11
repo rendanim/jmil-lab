@@ -18,11 +18,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor Tshilidzi Marwala is a Professor of Artificial Intelligence  and the Vice-Chancellor and Principal of the University of Johannesburg. Previously he was the Deputy Vice-Chancellor for Research and Internationalisation and the Executive Dean of the Faculty of Engineering and the Built Environment, both at the University of Johannesburg.
+bio: Professor Tshilidzi Marwala is a Professor of Artificial Intelligence  and the Vice-Chancellor and Principal of the University of Johannesburg. Previously he was the Deputy Vice-Chancellor for Research and Internationalisation and the Executive Dean of the Faculty of Engineering and the Built Environment, both at the University of Johannesburg. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has an extensive track record in human capacity development, having supervised 47 Master’s and 28 Doctoral students to completion. Some of these students have proceeded with their doctoral and post-doctoral studies at leading universities such as Harvard, Oxford, Cambridge, British Columbia, Rutgers, Purdue, Chiba and Waseda.
 
-His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has an extensive track record in human capacity development, having supervised 47 Master’s and 28 Doctoral students to completion. Some of these students have proceeded with their doctoral and post-doctoral studies at leading universities such as Harvard, Oxford, Cambridge, British Columbia, Rutgers, Purdue, Chiba and Waseda.
-
- interests:
+interests:
 - Artificial Intelligence
 - Machine Learning
 - Monte Carlo Simulation
