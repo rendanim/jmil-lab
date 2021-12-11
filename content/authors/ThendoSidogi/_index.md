@@ -4,7 +4,7 @@ title: Thendo Sidogi
 
 # Username (this should match the folder name)
 authors:
-- Thendo Sidogi
+- ThendoSidogi
 
 # Is this the primary user of the site?
 superuser: false

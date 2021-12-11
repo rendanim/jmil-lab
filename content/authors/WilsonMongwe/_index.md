@@ -4,7 +4,7 @@ title: Wilson Mongwe
 
 # Username (this should match the folder name)
 authors:
-- Wilson Mongwe
+- WilsonMongwe
 
 # Is this the primary user of the site?
 superuser: false
