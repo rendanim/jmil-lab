@@ -18,9 +18,9 @@ content:
   user_groups:
   - Principal Investigator
   - Co-Principal Investigator
-  - Research Associates 
-  - Affiliates
+  - Research Fellows 
   - PhD Candidates
+  - Affiliates
   - Masters Students
   - Honours Students
   - Administration

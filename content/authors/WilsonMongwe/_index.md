@@ -75,6 +75,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Associates
+- Research Fellows
 ---
 Wilson holds a BSc in Computing from the University of South Africa, BBusSci in Actuarial Science from the University of Cape Town and a Masters in Mathematical Finance from the University of Cape Town. He is a recipient of the Google PhD fellowship in machine learning which supports his current PhD research at the University of Johannesburg. His research interests include Bayesian machine learning and Markov Chain Monte Carlo methods.
