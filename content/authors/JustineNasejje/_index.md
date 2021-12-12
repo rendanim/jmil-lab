@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Thendo Sidogi
+title: Justine Nasejje
 
 # Username (this should match the folder name)
 authors:
-- ThendoSidogi
+- JustineNasejje
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Johannesburg
+- name: University of Witwatersrand
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,7 +22,8 @@ bio:
 
 interests:
 - Machine Learning
-- Computational Finance
+- Survival Analysis
+- Public Health
 
 
 #education:
@@ -64,5 +65,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Affiliates
 ---
