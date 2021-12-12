@@ -28,4 +28,4 @@ content:
 design:
   columns: '1'
 ---
-The JMIL group is always open to the new collabrations and prospective postgraduate student enrollments.
+The JMIL group is always open to new collabrations and prospective postgraduate student enrollments. Feel free to reach out!
