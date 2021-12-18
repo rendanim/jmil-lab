@@ -1,28 +1,30 @@
 ---
 # Display name
-title: Thendo Sidogi
+title: Raeesa Manjoo 
 
 # Username (this should match the folder name)
 authors:
-- ThendoSidogi
+- RaeesaManjoo 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Johannesburg
+- name: University of Witwatersrand
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thendo Sidogi is a quantitative analyst at the Public Investment Corporation. He graduated from wits university having majored in mathematics. He joined Citi bank briefly before moving back to academia having to focus full time on his masters degree titled pricing barrier options using Lie symmetries. He then joined Riskworx as a financial engineer working on special projects with various insurers and banks within SA financial services for 4 years. He am currently enrolled for a PhD in machine learning in finance and is looking forward to finishing it (eventually). 
+bio: Raeesa Manjoo is a lecturer and PhD candidate at the University of the Witwatersrand since 2018. She has a BSc in Mathematics, a Post-graduate Diploma in Actuarial Sciences and Mathematical Statistics, a double Honours in Mathematics and in Statistics. She was awarded the Liberty medal, awarded to the best statistics honours student. She completed her MSc with distinction in 2018 in mathematical statistics, focussing on stochastic processes. She now is completing her PhD in statistics on the spatio-stochastic modelling of infectious diseases. She currently lectures both undergraduate and postgraduate courses in applied statistics, spatial statistics and survival analysis. Raeesa’s research interest include the modelling of the spread of infectious diseases and applications of spatial statistics. She is also an active member of R-Ladies and has presented sessions on designing RShiny apps and building SIR models on R. She has also works with various academics from the CSIR, UP and MRC on modelling some aspects of COVID-19 using a both a spatial and national model. When she is not researching, supervising or teaching, she is either running or baking- her two hobbies which are perfectly complementary.
+   
 
 interests:
 - Machine Learning
-- Computational Finance
+- Epidemiology
+- Spatial Statistics
 
 
 #education:
@@ -64,5 +66,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Affiliates
 ---

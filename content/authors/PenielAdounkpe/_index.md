@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: Peniel Adounkpe is a young and dynamic climate data scientist from Cotonou, Benin. He is a recent graduate of the Master Research Program in Informatics for Climate Change from Université Joseph Ki-Zerbo (Ouagadougou, Burkina Faso) partnered with WASCAL (West African Science Service Centre on Climate Change and Adapted Land Use). He is currently an intern at YoU-CAN (Youth UNESCO Climate Action Network). Peniel is a hydrologist at root, a cartographer by passion and a climate data scientist by commitment to providing solutions to one of our greatest generational challenges: climate change. His goal is to apply new technologies (GIS & AI) to clearly apprehend and propose adapted solutions to climate and water-related challenge
 
 interests:
 - Machine Learning

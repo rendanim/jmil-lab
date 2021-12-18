@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Dr Justine Nasejje is a lecturer in the School of Statistics and Actuarial Science at the university of the Witwatersrand. Justine’s research interests are in development of survival analysis methods. In the past she has published paper(s) on the applications of classical machine learning methods like the random survival forests to analyze survival data. Her current research interests are focusing on the development of neural network methods for survival analysis. Justine is a member of the International Biometric Society, since 2015. Justine Obtained her PhD in Statistics at the University of KwaZulu-Natal in April 2018 and her thesis was awarded the Kambule Doctoral Award in July the same year.  
 
 interests:
 - Machine Learning
