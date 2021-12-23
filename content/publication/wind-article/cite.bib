@@ -1,0 +1,13 @@
+@article{MBUVHA2021100108,
+title = {Separable Shadow Hamiltonian Hybrid Monte Carlo for Bayesian Neural Network Inference in wind speed forecasting},
+journal = {Energy and AI},
+volume = {6},
+pages = {100108},
+year = {2021},
+issn = {2666-5468},
+doi = {https://doi.org/10.1016/j.egyai.2021.100108},
+url = {https://www.sciencedirect.com/science/article/pii/S2666546821000586},
+author = {Rendani Mbuvha and Wilson Tsakane Mongwe and Tshilidzi Marwala},
+keywords = {Bayesian Neural Networks, Markov Chain Monte Carlo, Separable Hamiltonian, Shadow Hybrid Monte Carlo, Automatic Relevance Determination, Wind speed, Wind power, Forecasting},
+abstract = {Accurate wind speed and consequently wind power forecasts form a critical enabling tool for large scale wind energy adoption. Probabilistic machine learning models such as Bayesian Neural Network (BNN) models are often preferred in the forecasting task as they facilitate estimates of predictive uncertainty and automatic relevance determination (ARD). Hybrid Monte Carlo (HMC) is widely used to perform asymptotically exact inference of the network parameters. A significant limitation to the increased adoption of HMC in inference for large scale machine learning systems is the exponential degradation of the acceptance rates and the corresponding effective sample sizes with increasing model dimensionality due to numerical integration errors. This paper presents a solution to this problem by sampling from a modified or shadow Hamiltonian that is conserved to a higher-order by the leapfrog integrator. BNNs trained using Separable Shadow Hamiltonian Hybrid Monte Carlo (S2HMC) are used to forecast one hour ahead wind speeds on the Wind Atlas for South Africa (WASA) datasets. Experimental results find that S2HMC yields higher effective sample sizes than the competing HMC. The predictive performance of S2HMC and HMC based BNNs is found to be similar. We further perform hierarchical inference for BNN parameters by combining the S2HMC sampler with Gibbs sampling of hyperparameters for relevance determination. A generalisable ARD committee framework is introduced to synthesise the various sampler ARD outputs into robust feature selections. Experimental results show that this ARD committee approach selects features of high predictive information value. Further, the results show that dimensionality reduction performed through this approach improves the sampling performance of samplers that suffer from random walk behaviour such as Metropolis–Hastings (MH).}
+}
