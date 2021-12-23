@@ -33,7 +33,9 @@ tags:
 - Markov Chain Monte Carlo
 - Separable HamiltonianShadow Hybrid Monte Carlo
 - Automatic Relevance Determination
-- Wind speedWind powerForecasting
+- Wind speed
+- Wind power
+- Forecasting
 featured: false
 
 # links:
