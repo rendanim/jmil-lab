@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Thendo Sidogi
+title: Tendani Mutavhatsindi
 
 # Username (this should match the folder name)
 authors:
-- ThendoSidogi
+- TendaniMutavhatsindi
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,15 +14,15 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Johannesburg
+- name: University of Witwatersand
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thendo Sidogi is a quantitative analyst at the Public Investment Corporation. He graduated from wits university having majored in mathematics. He joined Citi bank briefly before moving back to academia having to focus full time on his masters degree titled pricing barrier options using Lie symmetries. He then joined Riskworx as a financial engineer working on special projects with various insurers and banks within SA financial services for 4 years. He am currently enrolled for a PhD in machine learning in finance and is looking forward to finishing it (eventually). 
+bio: 
 
 interests:
 - Machine Learning
-- Computational Finance
+- Renewable Energy
 
 
 #education:
@@ -45,7 +45,7 @@ social:
   link: ""
 - icon: google-scholar
   icon_pack: ai
-  link: ""
+  link: https://scholar.google.co.za/citations?hl=en&user=dACZ8AoAAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
   link: ""
@@ -66,4 +66,3 @@ highlight_name: false
 user_groups:
 - PhD Candidates
 ---
-Thendo Sidogi is a quantitative analyst at the Public Investment Corporation. He graduated from wits university having majored in mathematics. He joined Citi bank briefly before moving back to academia having to focus full time on his masters degree titled pricing barrier options using Lie symmetries. He then joined Riskworx as a financial engineer working on special projects with various insurers and banks within SA financial services for 4 years. He am currently enrolled for a PhD in machine learning in finance and is looking forward to finishing it (eventually). 
